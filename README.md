@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Mohammed Yousri Bouattou
+# Mohammed Yousri Bouattou | محمد يسري بوعتو 👋
 
 ### 💻 Full Stack Developer
 
